@@ -1,0 +1,116 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-image: url('pati.jpg');
+  background-size: cover; 
+  background-position: center center; 
+  background-attachment: fixed;
+  color: #2c3e50;
+  line-height: 1.7;
+  padding: 40px 10%;
+
+}
+  h2 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #262524;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #6c757d;
+  }
+  
+  
+.hero-section .btn {
+    position: relative; 
+    z-index: 10; 
+    top: 55px;
+  }
+  
+
+  
+  .navbar-brand {
+    position: absolute; 
+    top: 50%; 
+    left: 20px;
+    transform: translateY(-50%);
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 15px;
+  }
+  
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #a97bbb !important; 
+  }
+  
+  .nav-link {
+    color: #ffffff !important;
+  
+  }
+  
+  
+  
+  .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-img-top {
+    border-radius: 10px;
+    object-fit: cover;
+    height: 180px; 
+  }
+  
+  
+  .btn-outline-primary {
+    color: #000000;
+    border-color: #201d1d;
+    font-size: 0.9rem;
+    padding: 8px 20px;
+    border-radius: 25px;
+   
+  }
+  
+  .bg-white {
+    padding: 15px;
+  }
+  
+  #hakkimizda {
+    background-color: #fbf2fd;
+    padding: 50px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  #hakkimizda h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #5a5a5a;
+    position: relative;
+    padding-bottom: 10px;
+  }
+  
+  
+  #hakkimizda p {
+    font-size: 1.1rem;
+    color: #000000;
+    line-height: 1.8;
+    text-align: justify;
+    margin-bottom: 20px;
+  }
+  
+
+
+
+ 
+ 
+  
