@@ -12,4 +12,4 @@ Bu proje, HTML ve CSS kullanarak geliştirilmiş basit bir web sitesi örneğidi
 
 Projeyi GitHub'dan klonlayın:
    ```bash
-   git clone https://github.com/frmeddy/ed-petshop.git
+  https://github.com/frmeddy/petshop.git
